@@ -2,11 +2,17 @@
 
 ## AIM:
 To write a program to implement Elgamal Algorithm. ALGORITHM:
+
 STEP-1: Input large prime number, base, and private key
+
 STEP-2: Calculate the public key
+
 STEP-3: Input message to encrypt
+
 STEP-4: Input random ephemeral key
+
 STEP-5: ElGamal
+
 ## PROGRAM:
 ```
 #include <stdio.h>
@@ -83,7 +89,8 @@ int main() {
 
 ```
 ## OUTPUT :
-![Screenshot 2024-10-18 134300](https://github.com/user-attachments/assets/892a3acd-2dab-4e1e-bca1-13094690e861)
+![image](https://github.com/user-attachments/assets/20857dca-77c1-4789-a03d-06af4271b0cf)
+
 
 
 
